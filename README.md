@@ -1,3 +1,5 @@
+**This repository is deprecated: for all intents and purposes please refer to the angr/patcherex repository**
+
 # Patcherex
 Patcherex is the component used to create patched binaries in our CRS.
 
